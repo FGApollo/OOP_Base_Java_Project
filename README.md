@@ -1,29 +1,29 @@
-# 🏔️ OOP Base Java Project - Student Registration for Mountain Climbing
+# OOP Base Java Project - Student Registration for Mountain Climbing
 
-## 👋 About
+##  About
 Đây là một ứng dụng **Java Console** mô phỏng hệ thống quản lý đăng ký tham gia leo núi của sinh viên.  
 Project được xây dựng theo mô hình hướng đối tượng (OOP), có đầy đủ CRUD, tìm kiếm, thống kê, và thao tác với file CSV.
 
 ---
 
-## ✨ Features
+## Features
 
 ### 👨‍🎓 Student Management
-- ➕ **New Registration**: Đăng ký mới cho sinh viên (có kiểm tra dữ liệu hợp lệ).
-- ✏️ **Update Registration Information**: Cập nhật thông tin đăng ký.
-- ❌ **Delete Registration Information**: Xóa đăng ký của sinh viên.
-- 📋 **Display Registered List**: Hiển thị danh sách sinh viên (nhiều chế độ hiển thị).
-- 🔍 **Search by Name**: Tìm kiếm sinh viên theo tên.
-- 🏫 **Filter by Campus**: Lọc danh sách theo cơ sở (HN, HCM, ĐN, CT, QN).
-- 📊 **Statistics**: Thống kê số lượng & doanh thu theo mã núi, tìm đỉnh núi có nhiều người đăng ký nhất hoặc doanh thu cao nhất.
-- 💾 **Save & Load Data**: Lưu danh sách vào file CSV và tải lại khi khởi động.
+- **New Registration**: Đăng ký mới cho sinh viên (có kiểm tra dữ liệu hợp lệ).
+- **Update Registration Information**: Cập nhật thông tin đăng ký.
+- **Delete Registration Information**: Xóa đăng ký của sinh viên.
+- **Display Registered List**: Hiển thị danh sách sinh viên (nhiều chế độ hiển thị).
+- **Search by Name**: Tìm kiếm sinh viên theo tên.
+- **Filter by Campus**: Lọc danh sách theo cơ sở (HN, HCM, ĐN, CT, QN).
+- **Statistics**: Thống kê số lượng & doanh thu theo mã núi, tìm đỉnh núi có nhiều người đăng ký nhất hoặc doanh thu cao nhất.
+- **Save & Load Data**: Lưu danh sách vào file CSV và tải lại khi khởi động.
 
-### 🏔️ Mountain Management
+### Mountain Management
 - Đọc dữ liệu từ file `MountainList.csv`.
 - Kiểm tra mã núi khi đăng ký.
 - Quản lý thông tin: mã núi, tên, tỉnh, mô tả.
 
-### 📱 Phone Fee Discount
+### Phone Fee Discount
 - Sinh viên sử dụng số điện thoại Viettel hoặc VNPT sẽ được **giảm 35% học phí**.
 
 ---
