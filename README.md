@@ -8,7 +8,7 @@ Project được xây dựng theo mô hình hướng đối tượng (OOP), có 
 
 ## Features
 
-### 👨‍🎓 Student Management
+### Student Management
 - **New Registration**: Đăng ký mới cho sinh viên (có kiểm tra dữ liệu hợp lệ).
 - **Update Registration Information**: Cập nhật thông tin đăng ký.
 - **Delete Registration Information**: Xóa đăng ký của sinh viên.
@@ -28,14 +28,14 @@ Project được xây dựng theo mô hình hướng đối tượng (OOP), có 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 - File I/O (CSV)
 - OOP Design (Encapsulation, Inheritance, Polymorphism)
 
 ---
 
-## 🖥️ Example Output
+## Example Output
 
 ```text
 ===== Student Registration for Mountain Climbing =====
